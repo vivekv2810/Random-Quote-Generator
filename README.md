@@ -30,3 +30,31 @@ The aim of this project is to create a web application that generates a random q
 └── README.md     # Project documentation
 ```
 
+## Extended Dataset:
+The dataset contains a collection of motivational and life quotes from famous personalities such as Abraham Lincoln, Ralph Waldo Emerson, Steve Jobs, Albert Einstein, and more.
+
+## Setup and Usage:
+
+1. **Clone the Repository**:
+
+```
+git clone https://github.com/your-username/random-quote-generator.git
+```
+
+2. **Navigate to the Project Directory**:
+
+```
+cd random-quote-generator
+```
+
+3. **Open the** ```index.html``` **file** in your browser to run the application locally.
+
+## Screenshots
+
+Note: This is just the basic frontend i have made.
+
+![image](https://github.com/user-attachments/assets/ed3cf7b0-a9ee-4840-9af8-4e8d157d95c5)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
