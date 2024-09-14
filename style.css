@@ -1,0 +1,69 @@
+/* Global Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+
+/* Container Styles */
+.container {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    width: 50%;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+/* Title Styles */
+h1 {
+    color: #2c3e50;
+    margin-bottom: 20px;
+}
+
+/* Quote Box Styles */
+.quote-box {
+    font-size: 1.4em;
+    color: #34495e;
+    margin: 20px 0;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+#author {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #7f8c8d;
+}
+
+/* Button Styles */
+button {
+    padding: 12px 30px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+    transition: background-color 0.3s ease;
+    outline: none;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button:focus {
+    box-shadow: 0 0 5px 2px rgba(52, 152, 219, 0.6);
+}
+
+/* Footer Styles */
+footer {
+    margin-top: 50px;
+    color: #7f8c8d;
+    font-size: 0.9em;
+}
